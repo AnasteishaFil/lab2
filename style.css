@@ -1,0 +1,102 @@
+body {
+	margin: 0;
+	line-height: 1.6;
+	background: rgb(250, 170, 200);
+}
+h1, h2, h3, h4, h5, h6 {margin: 0}
+
+.section1{
+	width: 100%;
+	height: 30vh;
+	background: url("images/intro.jfif");
+	background-size: 100% auto;
+}
+.glav_text{
+	width: 100%;
+	height: 30vh;
+	background: rgba(0, 0, 0, 0.4);
+	color: white;
+	text-align: center;
+}
+h1{
+	font-family: 'Caveat', cursive;
+	font-size: 75px;
+	padding-top: 6vh;
+}
+.tablitsa{
+	width: 92%;
+	margin: 30px auto;
+	display: flex;
+	justify-content: space-around;
+}
+img{
+	width: 20%;
+	height: auto;
+}
+table{
+	width: 50%;
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 45px;
+	color: rgb(100, 20, 50);
+	border-spacing: 5px;
+}
+td{
+	background-color:rgba(200, 120, 150, 0.7);
+}
+.ssilka{
+	width: 100%;
+	text-align: center;
+}
+a{
+	font-family: 'Oswald';
+	font-size: 45px;
+	color: rgb(100, 20, 50);
+}
+input{
+	margin: 10px auto;
+	border: 3px solid rgb(100, 20, 50);
+	border-radius: 15px;
+	font-family: 'Oswald';
+	font-size: 30px;
+	color: rgb(100, 20, 50);
+	background-color:rgba(200, 120, 150, 0.7);
+}
+.name{
+	width: 35%;
+}
+h2{
+	font-family: 'Caveat', cursive;
+	font-size: 55px;
+	color: rgb(100, 20, 50);
+}
+.spiski{
+	width: 55%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+}
+ol, ul{
+	font-family: 'Oswald';
+	font-size: 30px;
+	color: rgb(100, 20, 50);
+}
+img{
+	width: 19.7%;
+}
+.zadanie9{
+	width: 100%;
+	background-color: aquamarine;
+	color: fuchsia;
+	font-size: 30px;
+}
+.poloska{
+	width: 85%;
+	margin: 0 auto;
+	height: 3px;
+	background-color: fuchsia;
+}
+.text{
+	width: 85%;
+	margin: 0 auto;
+}
